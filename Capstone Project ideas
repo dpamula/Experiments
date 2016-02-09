@@ -1,0 +1,33 @@
+Project 1: 
+Housing Affordability 
+With the Real Estate market crash, is the market picking up at the same rate as before or is it being cautious. Housing Affordabilty factor
+impact on the market bubble. To statiscally analyse the data to see if/when we are going to have another such market crash.
+
+Dataset to be be used- Housing Affordability Data system(csv and excel fles), Location Affordability index from data.gov 
+
+
+Project 2:Allstate Purchase Prediction Challenge- Kaggle
+
+As a customer shops an insurance policy, he/she will receive a number of quotes with different coverage options before purchasing a plan. 
+This is represented in this challenge as a series of rows that include a customer ID, information about the customer, information about 
+the quoted policy, and the cost. Your task is to predict the purchased coverage options using a limited subset of the total interaction 
+history. If the eventual purchase can be predicted sooner in the shopping window,the quoting process is shortened and the issuer is less 
+likely to lose the customer's business.
+For each customer_ID in the test set, you must predict the seven coverage options they end up purchasing.
+
+Dataset to be used is in csv format. The training and test sets contain transaction history for customers that ended up purchasing a 
+policy. For each customer_ID, you are given their quote history. In the training set you have the entire quote history, the last row of 
+which contains the coverage options they purchased. In the test set, you have only a partial history of the quotes and do not have the 
+purchased coverage options. These are truncated to certain lengths to simulate making predictions with less history (higher uncertainty) 
+or more history (lower uncertainty).
+
+
+Project 3:Predict the online sales of a consumer product based on a data set of product features.- Kaggle
+
+The objective of the competition is to help us build as good a model as possible to predict monthly online sales of a product. Imagine 
+the products are online  self-help programs following an initial advertising campaign.
+
+Dataset to be used- The data in the comma separated values (CSV) format.  Each row in the data set represents a different consumer product. They contain the 
+monthly sales for first 12 months after product is launched.
+
+
